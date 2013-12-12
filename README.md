@@ -1,4 +1,4 @@
 omnigraffle
 ===========
 
-OmniGraffle stencils for mobile UX
+A compliation of OmniGraffle stencils for mobile UX.
